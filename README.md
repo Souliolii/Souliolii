@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=2500&pause=800&center=true&vCenter=true&width=800&lines=AdventureMS+Reborn+Developer;MapleStory+Quest+Tools+%26+Automation;Breaking+WZ+Files+Since+v83;Building+%F0%9F%94%A5+Custom+MS+Content" alt="Typing SVG" />
 </p>
 
-<!-- Pixel-art / retro MapleStory-ish header -->
-<p align="center">
-  <!-- Replace this with your own image inside your repo at /assets/maple_pixel_banner.png -->
-  <img src="https://github.com/Souliolii/Souliolii/raw/main/assets/maple_pixel_banner.png" alt="Pixel Maple banner" />
-</p>
-
 <h1 align="center">👋 Hey, I'm Soul (Souliolii)</h1>
 
 <p align="center">
@@ -93,24 +87,6 @@ Placeholder text below – your action/script can replace this block automatical
 - Cleaning up AdventureMS quest chains (IDs 3000–3006+)
 - Experimenting with safer WZ/XML workflows
 ```
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Souliolii&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souliolii&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Souliolii&theme=tokyonight&hide_border=false" alt="GitHub streak" />
-</p>
-
-<!-- Activity graph (optional) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Souliolii&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
