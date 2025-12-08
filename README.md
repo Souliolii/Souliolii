@@ -71,25 +71,6 @@
 
 ---
 
-## 🔄 What I'm Working On (Auto-Updating Section)
-
-<!--
-To make this section auto-update, you can:
-1. Create a GitHub Action that edits this README from a script (e.g., pulling from a todo.md, commits, or issues).
-2. Or use a service like WakaTime / GitHub Activity → then embed their generated SVGs or markdown.
-
-Placeholder text below – your action/script can replace this block automatically.
--->
-
-```text
-🧱 Current focus:
-- Tweaking Quest-Cloner v83 GUI and reward logic
-- Cleaning up AdventureMS quest chains (IDs 3000–3006+)
-- Experimenting with safer WZ/XML workflows
-```
-
----
-
 ## 🧷 Quick Links
 
 - 🧬 Main Tool: [Quest-Cloner-v83](https://github.com/Souliolii/Quest-Cloner-v83)
