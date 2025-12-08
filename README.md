@@ -71,14 +71,6 @@
 
 ---
 
-## 🧷 Quick Links
-
-- 🧬 Main Tool: [Quest-Cloner-v83](https://github.com/Souliolii/Quest-Cloner-v83)
-- 🧪 Experiments & Utilities: 
-- 🧵 Issues & Requests: Use the issues tab on the relevant repo
-
----
-
 ## 📫 Contact
 
 - 💬 Discord: **soulioli**
