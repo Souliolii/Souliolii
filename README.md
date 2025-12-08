@@ -58,7 +58,7 @@
 
 ## 🌟 Featured Projects
 
-### 🔁 [Quest-Cloner v83 — AdventureMS](https://github.com/Souliolii/Quest-Cloner-v83)
+### 🔁 [Quest-Cloner v83](https://github.com/Souliolii/Quest-Cloner-v83)
 - Clone MapleStory quests across **Act / Check / QuestInfo / Say / PQuest / Exclusive** XMLs  
 - Auto-update QuestInfo text fields (name, summary, rewardSummary)  
 - Built-in backups + debug output  
