@@ -48,11 +48,14 @@
     🐍 Comfortable with: Python, C#, GDScript, SQL, reverse engineering workflows<br>
     🧱 Current focus: quest pipelines, NPC scripting, reward logic, and private server QoL tools<br>
     🕹️ Server Experience (Games I've built or operated)<br><br>
-
-    🌍 Minecraft Servers — Survival, Skyblock, custom plugins, economy systems<br>
-    🚓 GTA FiveM Servers — custom scripts, jobs, UI systems, and server economy<br>
-    🧟 Project Zomboid Servers — modded environments, progression systems, balancing
   </p>
+
+  <p>
+    🌍 <b>Minecraft Servers</b> — Survival, Skyblock, custom plugins, economy systems<br>
+    🚓 <b>GTA FiveM Servers</b> — custom scripts, jobs, UI systems, and server economy<br>
+    🧟 <b>Project Zomboid Servers</b> — modded environments, progression systems, balancing
+  </p>
+
 
   <hr>
 
