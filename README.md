@@ -15,26 +15,15 @@
 
 ---
 
+
+
 <p align="center">
-  <div align="center" style="
-    border: 2px solid #ff5f5f;
-    padding: 16px;
-    border-radius: 12px;
-    width: 60%;
-    min-width: 260px;
-  ">
-    <h2>☕ Support My Work</h2>
-    <p>If you like my tools, utilities, and MapleStory dev work, consider supporting me on Ko-fi ❤️</p>
-    <a href="https://ko-fi.com/soulioli" target="_blank">
-      <img src="https://storage.ko-fi.com/cdn/kofi_stroke_cup.png" 
-           height="60" 
-           alt="Buy Me a Coffee at ko-fi.com" />
-    </a>
-  </div>
+  <a href="https://ko-fi.com/soulioli" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%20Soul-ff8ba0?style=for-the-badge&logo=kofi&logoColor=white"
+      alt="Ko-fi Button" />
+  </a>
 </p>
-
----
-
 
 
 ---
