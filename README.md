@@ -12,29 +12,33 @@
   <hr>
 
   <!-- Ko-fi + Discord -->
-  <table align="center">
-    <tr>
-      <td align="center">
-        <a href="https://ko-fi.com/soulioli" target="_blank">
-          <img 
-            src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%20Soul-ff8ba0?style=for-the-badge&logo=kofi&logoColor=white"
-            alt="Ko-fi Button" />
-        </a>
-      </td>
+<hr>
 
-      <td width="20"></td>
+<!-- Ko-fi + Discord -->
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://ko-fi.com/soulioli" target="_blank">
+<img 
+  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%20Soul-ff8ba0?style=for-the-badge&logo=kofi&logoColor=white"
+  alt="Ko-fi Button" />
+</a>
+</td>
 
-      <td align="center">
-        <a href="https://discord.gg/GgCGjwmaDd" target="_blank">
-          <img 
-            src="https://img.shields.io/badge/Chat%20with%20Me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-            alt="Discord Button" />
-        </a>
-      </td>
-    </tr>
-  </table>
+<td width="20"></td>
 
-  <hr>
+<td align="center">
+<a href="https://discord.gg/GgCGjwmaDd" target="_blank">
+<img 
+  src="https://img.shields.io/badge/Chat%20with%20Me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+  alt="Discord Button" />
+</a>
+</td>
+</tr>
+</table>
+
+<hr>
+
 
   <h2>🧩 About Me</h2>
 
