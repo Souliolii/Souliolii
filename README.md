@@ -12,21 +12,29 @@
   <b>Developer • Reverse Engineer • AdventureMS Reborn • MapleStory Quest Tools</b>
 </p>
 
-
 ---
 
-
-
 <p align="center">
+  <!-- Ko-fi -->
   <a href="https://ko-fi.com/soulioli" target="_blank">
     <img 
       src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95%20Soul-ff8ba0?style=for-the-badge&logo=kofi&logoColor=white"
       alt="Ko-fi Button" />
   </a>
+
+  <!-- Spacer -->
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- Discord -->
+  <a href="https://discord.com/users/000000000000000000](https://discord.gg/GgCGjwmaDd" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Chat%20with%20Me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+      alt="Discord Button" />
+  </a>
 </p>
 
-
 ---
+
 
 ## 🧩 About Me
 
