@@ -15,6 +15,7 @@
 ---
 
 <p align="center">
+
   <!-- Ko-fi -->
   <a href="https://ko-fi.com/soulioli" target="_blank">
     <img 
@@ -22,18 +23,20 @@
       alt="Ko-fi Button" />
   </a>
 
-  <!-- Spacer -->
-  &nbsp;&nbsp;&nbsp;
+  <!-- HARD SPACER (GitHub-safe) -->
+  <span style="display:inline-block; width:20px;"></span>
 
   <!-- Discord -->
-  <a href="https://discord.com/users/000000000000000000](https://discord.gg/GgCGjwmaDd" target="_blank">
+  <a href="https://discord.gg/GgCGjwmaDd" target="_blank">
     <img 
       src="https://img.shields.io/badge/Chat%20with%20Me%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
       alt="Discord Button" />
   </a>
+
 </p>
 
 ---
+
 
 
 ## 🧩 About Me
